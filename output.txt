@@ -1,0 +1,53 @@
+Заголовок: Библиотека разработчика микросервисов. Полезные книги на русском языке. Ссылка: https://habr.com/ru/companies/skillbox/articles/729854/
+Заголовок: Переход от монолита к микросервисам. Ссылка: https://habr.com/ru/articles/305826/
+Заголовок: Переход от монолита к микросервисам: история и практика. Ссылка: https://habr.com/ru/companies/raiffeisenbank/articles/458404/
+Заголовок: Микросервисы vs. Монолит. Ссылка: https://habr.com/ru/companies/yandex_praktikum/articles/570024/
+Заголовок: Архитектура микросервисов: Разрушение монолита. Ссылка: https://habr.com/ru/companies/otus/articles/560472/
+Заголовок: Руководство по созданию облачного приложения под Microsoft Azure на основе опенсорсных технологий. Часть 1. Ссылка: https://habr.com/ru/companies/otus/articles/699448/
+Заголовок: Когда и как переходить с монолита на микросервисы. Миграция данных. Ссылка: https://habr.com/ru/companies/mango_telecom/articles/695382/
+Заголовок: Работа с хранимым кодом приложения при миграции с Oracle на PostgreSQL: особенности, сложности и способы их преодоления. Ссылка: https://habr.com/ru/companies/postgrespro/articles/683748/
+Заголовок: Микросервисы для начинающих. Ссылка: https://habr.com/ru/articles/480914/
+Заголовок: MTC Live: от идеи до облачного приложения. Ссылка: https://habr.com/ru/companies/ru_mts/articles/754048/
+Заголовок: Монолитные репозитории в Git. Ссылка: https://habr.com/ru/articles/280358/
+Заголовок: Изоляция микросервисов по данным при миграции с монолита. Ссылка: https://habr.com/ru/companies/maximatelecom/articles/706532/
+Заголовок: Микросервисы и неизбежная боль?. Ссылка: https://habr.com/ru/articles/668300/
+Заголовок: Тебе не нужно классическое ООП в твоём бэкенд микросервисе. Ссылка: https://habr.com/ru/companies/domclick/articles/732876/
+Заголовок: Практикуем разработку небольшого веб-приложения с нуля. Ссылка: https://habr.com/ru/articles/513366/
+Заголовок: Шаблоны модернизации приложения с помощью Apache Kafka, Debezium и Kubernetes, часть 1. Ссылка: https://habr.com/ru/companies/redhatrussia/articles/573720/
+Заголовок: Создание микросервисной архитектуры с использованием single-spa (миграция существующего проекта). Ссылка: https://habr.com/ru/articles/525464/
+Заголовок: Nativefier – превращаем любой сайт в настольное приложение Linux…. Ссылка: https://habr.com/ru/companies/redhatrussia/articles/590075/
+Заголовок: Обзор программы DotNext 2022 Spring: сольем микросервисы в монолит, приручим хаос и узрим многоликий DDD. Ссылка: https://habr.com/ru/companies/jugru/articles/670816/
+Заголовок: О мифологии миграции монолита в облака. Ссылка: https://habr.com/ru/articles/553794/
+Заголовок: Архитектурный шаблон “Macro Shared Transactions for Microservices”. Ссылка: https://habr.com/ru/companies/dataart/articles/446288/
+Заголовок: Как мигрировать на Managed Kubernetes без боли. Ссылка: https://habr.com/ru/companies/vk/articles/569594/
+Заголовок: Разложение монолита. Ссылка: https://habr.com/ru/articles/548054/
+Заголовок: Может ли chatgpt заменить архитектора ПО?. Ссылка: https://habr.com/ru/articles/725184/
+Заголовок: Интеграция в стиле BPM. Ссылка: https://habr.com/ru/companies/krista/articles/522394/
+Заголовок: Кратко о типах архитектур программного обеспечения, и какую из них выбрали мы для IaaS-провайдера. Ссылка: https://habr.com/ru/companies/1cloud/articles/424911/
+Заголовок: Разработка новой ветки продукта: как избавиться от непрактичного и сохранить полезное. Ссылка: https://habr.com/ru/companies/ispsystem/articles/441968/
+Заголовок: Разложение монолита: Декомпозиция БД (часть 1). Ссылка: https://habr.com/ru/articles/548592/
+Заголовок: Как жить-то, когда нет целевой архитектуры?. Ссылка: https://habr.com/ru/companies/alfa/articles/730620/
+Заголовок: Data-Oriented архитектура. Ссылка: https://habr.com/ru/companies/timeweb/articles/590675/
+Заголовок: Книга «Современный подход к программной архитектуре: сложные компромиссы». Ссылка: https://habr.com/ru/companies/piter/articles/753326/
+Заголовок: Одна из возможных версий переезда с MySQL на PostgreSQL. Ссылка: https://habr.com/ru/articles/742552/
+Заголовок: Микрофронтенды: о чем это мы?. Ссылка: https://habr.com/ru/companies/raiffeisenbank/articles/459540/
+Заголовок: Микросервисная архитектура, Spring Cloud и Docker. Ссылка: https://habr.com/ru/articles/280786/
+Заголовок: Общая теория и археология виртуализации x86. Ссылка: https://habr.com/ru/articles/474776/
+Заголовок: Postgresso 1 за 2023 (50). Ссылка: https://habr.com/ru/companies/postgrespro/articles/710930/
+Заголовок: Hexagon — гексогональная архитектура для Kotlin Backend. Ссылка: https://habr.com/ru/companies/otus/articles/649921/
+Заголовок: Пять стратегий эффективной реализации Kubernetes в организации. Ссылка: https://habr.com/ru/companies/fgts/articles/558932/
+Заголовок: Обзор программы Java-конференции JBreak 2018: абсолютный баланс. Ссылка: https://habr.com/ru/companies/jugru/articles/349442/
+Заголовок: Маленькие, и не очень, размышления о SOA, или жизнь в MVC-beyond мире (часть 0). Ссылка: https://habr.com/ru/articles/263589/
+Заголовок: Как избежать проблем при запуске MVP. Ссылка: https://habr.com/ru/companies/agima/articles/720896/
+Заголовок: Собеседование наоборот: компании из недели бэкендеров. Ссылка: https://habr.com/ru/companies/habr_career/articles/759162/
+Заголовок: Ruby on Rails соглашение. Часть 4. Ссылка: https://habr.com/ru/articles/330650/
+Заголовок: Chaos Engineering: искусство умышленного разрушения. Часть 1. Ссылка: https://habr.com/ru/companies/flant/articles/460367/
+Заголовок: Вечный вопрос технического долга. Ссылка: https://habr.com/ru/companies/tuturu/articles/456430/
+Заголовок: Dell EMC PowerStore: коротко о нашей новейшей СХД корпоративного класса. Ссылка: https://habr.com/ru/companies/dell_technologies/articles/505490/
+Заголовок: Принцип слоеного теста. Ссылка: https://habr.com/ru/articles/534642/
+Заголовок: Переезжаем с Oracle и Microsoft SQL Server на Platform V Pangolin: опыт Сбера. Ссылка: https://habr.com/ru/companies/sberbank/articles/691616/
+Заголовок: Cпособы снижения совокупной стоимости владения гибридными и мультиоблачными средами. Ссылка: https://habr.com/ru/companies/fgts/articles/590419/
+Заголовок: Дождались: IBM научит ИИ писать код и создает CodeNet. Ссылка: https://habr.com/ru/companies/timeweb/articles/558098/
+Заголовок: Fintech на практике: как Quadcode технологии для трейдинга и банкинга разрабатывает. Ссылка: https://habr.com/ru/companies/quadcode/articles/559828/
+Заголовок: Apache Kafka для магазинов. Ссылка: https://habr.com/ru/companies/crystal_service/articles/669974/
+Заголовок: Вопросы, которые я бы хотел услышать на техническом собеседовании. Ссылка: https://habr.com/ru/articles/728572/
