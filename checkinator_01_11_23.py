@@ -12,11 +12,13 @@ name_tag_group_map = {
     #Глаголы
     "Verbs": ['VB','VBP', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ'],
     #Наречия
-    "Adverbs": ["RBR", "RBS"],
+    "Adverbs": ['RB', "RBR", "RBS"],
     #Междометия
-    "Interjections": ['IN'],
-    #Предлоги
-    "Prepositions": ["PRP", "PRPS"],
+    "Interjections": ['UN'],
+    #Местоимения
+    "Pronouns": ["PRP", "PRPS"],
+    #Союзы
+    "Conjunction": ["CC"],
 }
 
 russian_name_tag = {
@@ -25,7 +27,8 @@ russian_name_tag = {
     "Verbs": 'глаголов',
     "Adverbs": 'наречий',
     "Interjections": 'междометий',
-    "Prepositions": 'предлогов',
+    "Pronouns": 'местоимений',
+    "Conjunction": 'союзов'
 }
 
 response = requests.get(globalHabrLink, headers)
