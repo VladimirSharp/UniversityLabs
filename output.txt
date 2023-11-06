@@ -17,14 +17,15 @@
 Заголовок: Создание микросервисной архитектуры с использованием single-spa (миграция существующего проекта). Ссылка: https://habr.com/ru/articles/525464/
 Заголовок: Nativefier – превращаем любой сайт в настольное приложение Linux…. Ссылка: https://habr.com/ru/companies/redhatrussia/articles/590075/
 Заголовок: Обзор программы DotNext 2022 Spring: сольем микросервисы в монолит, приручим хаос и узрим многоликий DDD. Ссылка: https://habr.com/ru/companies/jugru/articles/670816/
+Заголовок: Организация стенда локальной разработки для самых маленьких с автоматической пересборкой приложения (фронтенд + бэкенд). Ссылка: https://habr.com/ru/companies/flant/articles/771678/
 Заголовок: О мифологии миграции монолита в облака. Ссылка: https://habr.com/ru/articles/553794/
 Заголовок: Архитектурный шаблон “Macro Shared Transactions for Microservices”. Ссылка: https://habr.com/ru/companies/dataart/articles/446288/
 Заголовок: Как мигрировать на Managed Kubernetes без боли. Ссылка: https://habr.com/ru/companies/vk/articles/569594/
 Заголовок: Разложение монолита. Ссылка: https://habr.com/ru/articles/548054/
 Заголовок: Может ли chatgpt заменить архитектора ПО?. Ссылка: https://habr.com/ru/articles/725184/
-Заголовок: Интеграция в стиле BPM. Ссылка: https://habr.com/ru/companies/krista/articles/522394/
 Заголовок: Кратко о типах архитектур программного обеспечения, и какую из них выбрали мы для IaaS-провайдера. Ссылка: https://habr.com/ru/companies/1cloud/articles/424911/
 Заголовок: Разработка новой ветки продукта: как избавиться от непрактичного и сохранить полезное. Ссылка: https://habr.com/ru/companies/ispsystem/articles/441968/
+Заголовок: Интеграция в стиле BPM. Ссылка: https://habr.com/ru/companies/krista/articles/522394/
 Заголовок: Разложение монолита: Декомпозиция БД (часть 1). Ссылка: https://habr.com/ru/articles/548592/
 Заголовок: Как жить-то, когда нет целевой архитектуры?. Ссылка: https://habr.com/ru/companies/alfa/articles/730620/
 Заголовок: Data-Oriented архитектура. Ссылка: https://habr.com/ru/companies/timeweb/articles/590675/
