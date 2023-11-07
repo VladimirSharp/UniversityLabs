@@ -67,7 +67,7 @@ def parseArticle_GetKeyPerson(text):
 
 def parseArticle_GetKeyWords(unpreparedText, countMostPopular = 10):
     russian_stopwords = stopwords.words("russian")
-    russian_stopwords.extend(['—', 'это', 'которые'])
+    russian_stopwords.extend(['—', 'это', 'которые', 'очень', 'который', 'нам'])
     unpreparedText = remove_punctuation(unpreparedText)
     unpreparedText = remove_words_from_text(unpreparedText, russian_stopwords)
     text_tokens = word_tokenize(unpreparedText)

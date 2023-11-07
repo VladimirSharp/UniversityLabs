@@ -13,7 +13,7 @@ names = parseArticle_GetKeyPerson(concatedArticlesText).keys()
 keywords = parseArticle_GetKeyWords(concatedArticlesText, 20)
 
 print('Ключевые персонажи:')
-[print(name) for name in names]
+print(', '.join(names))
 
 print('\nКлючение слова:')
 [print('Слово: \"' + keyword[0] + '\", было использованно: '+ str(keyword[1]) + ' раз') for keyword in keywords]
